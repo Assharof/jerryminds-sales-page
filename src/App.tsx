@@ -214,7 +214,11 @@ export default function App() {
             <div className="flex aspect-video w-full items-center justify-center bg-gradient-to-br from-surface-2 to-surface">
               <div className="text-center">
                 <WhatsAppIcon className="mx-auto h-14 w-14 text-primary" />
-                <p className="mt-3 text-sm text-text-muted">▶ Drop your VSL or headshot here (replace this block)</p>
+                <img
+                 src="/hero-image.jpg"
+                  alt="24/7 Profit System"
+                 className="w-full h-full object-cover"
+/>
               </div>
             </div>
           </div>
@@ -289,7 +293,11 @@ export default function App() {
           <div className="mt-12 grid items-center gap-10 md:grid-cols-2">
             <div className="overflow-hidden rounded-[20px] border border-border shadow-prominent">
               <div className="flex aspect-square w-full items-center justify-center bg-gradient-to-br from-surface-2 to-bg">
-                <p className="px-6 text-center text-sm text-text-muted">📦 Replace with product/course mockup</p>
+                <p className="px-6 text-center text-sm text-text-muted"><img
+                   src="/hero-image.jpg"
+                   alt="24/7 Profit System"
+                   className="w-full h-full object-cover"
+/>
               </div>
             </div>
             <div>
@@ -360,7 +368,11 @@ export default function App() {
           <div className="grid items-center gap-10 md:grid-cols-[0.8fr_1.2fr]">
             <div className="overflow-hidden rounded-[20px] border border-border shadow-prominent">
               <div className="flex aspect-[4/5] w-full items-center justify-center bg-gradient-to-br from-surface-2 to-bg">
-                <p className="px-6 text-center text-sm text-text-muted">🧑🏾 Replace with headshot.jpg</p>
+                <img
+                   src="/hero-image.jpg"
+                    alt="24/7 Profit System"
+                   className="w-full h-full object-cover"
+/>
               </div>
             </div>
             <div>
