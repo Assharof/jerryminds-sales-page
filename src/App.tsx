@@ -5,10 +5,10 @@ import { useEffect, useRef, useState } from "react";
    ============================================================ */
 const WHATSAPP_LINK =
   "https://chat.whatsapp.com/BmGN6km0J4XCShWNTKyx9Z?s=cl&p=a&mlu=2"; // 👈 all buttons link here
-const PRICE = "₦20,000"; // 👈 REPLACE with your real price
-const ANCHOR_PRICE = "₦60,000"; // 👈 the struck-through "normally" price
+//const PRICE = "₦20,000"; // 👈 REPLACE with your real price
+const ANCHOR_PRICE = "₦150,000"; // 👈 the struck-through "normally" price
 const TOTAL_VALUE = "₦310,000"; // 👈 total stacked value
-const CREATOR_NAME = "David"; // 👈 REPLACE with your name
+const CREATOR_NAME = "Jerimiah Iniubong"; // 👈 REPLACE with your name
 const CREATOR_AGE = "24"; // 👈 your age (used in the headline story)
 const MEMBER_COUNT = "240+";
 const YEAR = new Date().getFullYear();
