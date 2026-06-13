@@ -752,9 +752,8 @@ export default function App() {
             <p className="mt-2 text-sm text-text-muted">
               Normally{" "}
               <span className="line-through">{ANCHOR_PRICE}</span> — today, you
-              pay just
+              pay just secure My Sea
             </p>
-            <p className="font-display text-6xl font-extrabold text-accent">{PRICE}</p>
             <div className="mt-6">
               <CTA big>Secure My Seat Now</CTA>
             </div>
@@ -912,7 +911,7 @@ export default function App() {
           className="flex w-full items-center justify-center gap-2 rounded-full bg-accent py-4 text-base font-semibold uppercase tracking-wide text-bg"
         >
           <WhatsAppIcon className="h-5 w-5" />
-          Join Community — {PRICE}
+          Join Community 
         </a>
       </div>
 
