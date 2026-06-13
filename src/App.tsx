@@ -871,7 +871,7 @@ export default function App() {
             is yours.
           </p>
           <div className="mt-10">
-            <CTA big>Join the Community — {PRICE}</CTA>
+            <CTA big>Join the Community</CTA>
           </div>
           <p className="mt-5 text-sm text-text-muted">
             🔒 Instant access · {MEMBER_COUNT} members inside · No experience
