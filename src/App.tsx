@@ -751,8 +751,7 @@ export default function App() {
             </p>
             <p className="mt-2 text-sm text-text-muted">
               Normally{" "}
-              <span className="line-through">{ANCHOR_PRICE}</span> — today, you
-              pay just secure My Sea
+              <span className="line-through">{ANCHOR_PRICE}</span> — today, just secure your Seat.
             </p>
             <div className="mt-6">
               <CTA big>Secure My Seat Now</CTA>
