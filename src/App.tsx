@@ -622,7 +622,7 @@ export default function App() {
             {/* Replace src with your actual headshot */}
             <div className="overflow-hidden rounded-[20px] border border-border shadow-prominent">
               <img
-                src="/creator-photo.jpg"
+                src="/images/hero-image.jpg"
                 alt={`${CREATOR_NAME} — Trainer`}
                 className="aspect-[4/5] h-full w-full object-cover"
               />
